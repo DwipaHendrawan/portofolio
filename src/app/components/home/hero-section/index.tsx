@@ -58,7 +58,7 @@ const HeroSection = () => {
             <div className="pt-24 flex flex-col items-center text-center gap-4">
               {/* Name */}
               <h1 className="text-2xl sm:text-3xl font-semibold">
-                Dwipayana Hendrawan
+                Dwipayana Hendrawannnnn
               </h1>
 
               {/* Role */}
